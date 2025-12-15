@@ -1,0 +1,4 @@
+Poprawnie, 155 (Poprawna)
+Poprawnie, 310
+Niepoprawnie, 155
+Niepoprawnie, 310
