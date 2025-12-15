@@ -1,0 +1,4 @@
+vector<int> lub list[int]
+type_deduce lub automatic
+int (Poprawna)
+Nie można tego zamienić

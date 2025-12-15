@@ -1,0 +1,1 @@
+ifstream plik(".\\skin.png");

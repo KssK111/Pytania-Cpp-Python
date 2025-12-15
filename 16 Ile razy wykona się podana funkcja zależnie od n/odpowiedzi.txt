@@ -1,0 +1,4 @@
+n (Poprawna)
+n!
+2n
+n^2

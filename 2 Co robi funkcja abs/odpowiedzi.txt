@@ -1,0 +1,4 @@
+Wykonuje atomowe wyszukiwanie binarne (Atomic Binary Search)
+Sprawdza czy liczba jest absolutna
+Inicjalizuje zasoby przy starcie programu (Anti-lock Braking System)
+Zwraca wartość bezwzględną dla liczby (Poprawna)

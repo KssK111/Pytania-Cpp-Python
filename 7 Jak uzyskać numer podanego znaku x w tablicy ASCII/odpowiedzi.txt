@@ -1,0 +1,4 @@
+stoi(x) lub int(x)
+x as int
+(int)x lub ord(x) (Poprawna)
+sqrt(x)
