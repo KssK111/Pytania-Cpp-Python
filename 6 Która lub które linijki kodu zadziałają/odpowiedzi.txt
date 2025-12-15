@@ -1,0 +1,4 @@
+Linijka 1
+Linijka 2 i 3
+Wszystkie zadziałają (Poprawna)
+Żadna nie zadziała
