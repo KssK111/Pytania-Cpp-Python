@@ -1,0 +1,4 @@
+C:\Diddy\Epstein\Myster.png
+C:\Diddy\Epstein\MuzykaTV\.\Myster.png
+C:\Diddy\Epstein\MuzykaTV\Myster.png (Poprawna)
+Taka ścieżka nie jest możliwa, Windows nie pozwala na kropkę jako nazwę folderu

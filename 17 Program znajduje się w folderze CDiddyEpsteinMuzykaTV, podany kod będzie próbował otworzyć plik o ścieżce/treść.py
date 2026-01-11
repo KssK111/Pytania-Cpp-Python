@@ -1,0 +1,1 @@
+plik = open(".\\Myster.png")

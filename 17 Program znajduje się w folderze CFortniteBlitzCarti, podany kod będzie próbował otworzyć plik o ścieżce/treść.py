@@ -1,1 +1,0 @@
-plik = open(".\\skin.png")

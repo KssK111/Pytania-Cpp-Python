@@ -1,4 +1,0 @@
-C:\Fortnite\Blitz\skin.png
-C:\Fortnite\Blitz\Carti\.\skin.png
-C:\Fortnite\Blitz\Carti\skin.png (Poprawna)
-Taka ścieżka nie jest możliwa, Windows nie pozwala na kropkę jako nazwę folderu

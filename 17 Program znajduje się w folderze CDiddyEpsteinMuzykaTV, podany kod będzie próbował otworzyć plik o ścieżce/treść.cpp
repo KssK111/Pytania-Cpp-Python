@@ -1,0 +1,1 @@
+ifstream plik(".\\Myster.png");
